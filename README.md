@@ -1,4 +1,4 @@
-# TAD_Stockland-Visitation-Prediction
+# Stockland Visitation Prediction
 
 ## Contributor:
 - Anh Dung Tu 
