@@ -1,4 +1,9 @@
 # TAD_Stockland-Visitation-Prediction
+
+## Contributor:
+- Anh Dung Tu 
+- Dang Thanh Hung Nguyen (David)
+
 The project aims to study how weather affects the number of people visiting a Stockland Asset (shopping centres) in different areas. 
 
 - Tools used: Jupiter Notebook, Python, Streamlit, Pandas, SckitLearn, Seaborn, Maths
